@@ -11,7 +11,7 @@ menu:
 - {name: 'Research',           url: 'documentation'}
 - {name: 'Education',          url: 'facts'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'off the clock',      url: 'dissemination'}
+- {name: 'off the clock',      url: 'resources'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
