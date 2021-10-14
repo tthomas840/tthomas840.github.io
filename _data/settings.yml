@@ -10,6 +10,7 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Research',           url: 'documentation'}
 - {name: 'Education',          url: 'facts'}
+- {name: 'Publications',       url: ''}
 - {name: 'Contact',            url: 'contact'}
 - {name: 'off the clock',      url: 'resources'}
 
