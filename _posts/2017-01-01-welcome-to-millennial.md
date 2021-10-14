@@ -8,7 +8,7 @@ title: "Welcome!"
 image: hike.jpeg
 ---
 
-Hi there, thanks for visiting my wegpage! 
+Hi there, thanks for visiting my webpage! 
 
 I am a Doctoral student in Cognitive Neuroscience at the Basque Center on Cognition, Brain and Language, or BCBL, in Donostia-San Sebastian, Basque Country, Spain. 
 
