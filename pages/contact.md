@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
+title: Connect
 permalink: /contact
 ---
 
-Contact: t.thomas@bcbl.eu
+**Contact: t.thomas@bcbl.eu**
 
 Paseo Mikeletegi 69, 2º
 20009 Donostia - San Sebastián, Gipuzkoa, Spain.
