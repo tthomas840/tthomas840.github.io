@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Trisha B. Thomas"
-description:	       "Trisha Thomas  Doctoral Researcher  Basque Center on Cognition, Brain and Language  Donostia-San Sebastian"
-
+description:	       "Doctoral Researcher   Basque Center on Cognition, Brain and Language   Donostia-San Sebastian     webpage"
+author:              "Trisha Thomas with Jekyll"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
