@@ -5,12 +5,11 @@ title: Scientific Dissemination and Other Passions
 permalink: /resources
 ---
 
-# Brain Awareness Week
+## Brain Awareness Week
 TODO
 
-# Pint of Science
+## Pint of Science
 TODO
 
-# BrainHack Donostia
-TODO
+
 
