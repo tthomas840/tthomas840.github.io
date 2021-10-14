@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "About the Author"
+#layout: post
+layout: page
+title: "Trisha B. Thomas"
 author: "Paul Le"
-categories: facts
-tags: [sample]
-image: cuba-2.jpg
+#categories: facts
+#tags: [sample]
+image: /Users/Trisha/Downloads/WhatsApp Image 2021-10-10 at 15.44.46.jpeg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Paul. I am a Doctoral student in Cognitive Neuroscience at the BCBL in Donostia-San Sebastian, Spain. Here you can find a little overview of what I am up to. Check out the other pages of this webisite for more detailed information, or check my CV [here]({{ https://tthomas840.github.io}}/assets/cv.pdf)! 
