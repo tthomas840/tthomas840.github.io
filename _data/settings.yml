@@ -8,8 +8,8 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'About',              url: 'about'}
-- {name: 'Research',           url: 'research'}
-- {name: 'Education',          url: 'education'}
+- {name: 'Research',           url: 'documentation'}
+- {name: 'Education',          url: 'facts'}
 - {name: 'Contact',            url: 'contact'}
 - {name: 'off the clock',      url: 'dissemination'}
 
