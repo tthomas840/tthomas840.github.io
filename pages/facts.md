@@ -6,8 +6,8 @@ permalink: /facts
 ---
 
 ### Doctoral Degree
- **Ph.D. Candidate in Cognitive Neuroscience**
- Basque Center on Cognition, Brain and Language (BCBL)
+**Ph.D. Candidate in Cognitive Neuroscience**
+Basque Center on Cognition, Brain and Language (BCBL)
 
 ### Masters Degree
 **MSc. in Cognitive Neuroscience of Language**
