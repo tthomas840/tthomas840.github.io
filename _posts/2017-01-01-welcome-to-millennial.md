@@ -1,7 +1,7 @@
 ---
 #layout: post
 layout: page
-title: "Welcome!"
+title: "Welcome"
 #author: "Paul Le"
 #categories: facts
 #tags: [sample]
