@@ -13,7 +13,6 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "Trisha B. Thomas"
 description:	       "Doctoral Researcher   Basque Center on Cognition, Brain and Language   Donostia-San Sebastian     webpage"
 author:              "Trisha Thomas using Jekyll themes"
-image:                brain.png
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
