@@ -7,9 +7,6 @@ title: "Welcome!"
 #tags: [sample]
 image: hike.jpeg
 ---
-
-Hi there, thanks for visiting my webpage! 
-
 I am a Doctoral student in Cognitive Neuroscience at the Basque Center on Cognition, Brain and Language, or BCBL, in Donostia-San Sebastian, Basque Country, Spain. 
 
 Here you can find a little overview of what I am currently up to. Check out the other pages of this website for more detailed information, or take a look at my CV [here]({{ https://tthomas840.github.io}}/assets/cv.pdf)!
