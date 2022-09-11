@@ -24,4 +24,4 @@ This project, headed by Dr. Mark Warschauer and Dr. Ying Xu of the Digital Learn
 
 #### Selected Contributions:
 
-DARCY, I., & THOMAS, T. (2019). When blue is a disyllabic word: Perceptual epenthesis in the mental lexicon of second language learners. Bilingualism: Language and Cognition, 22(5), 1141-1159. doi:10.1017/S1366728918001050
+Thomas, T., Martin, C., & Caffarra, S. An ERP investigation of accented isolated single word processing. Neuropsychologia. doi: 10.1016/j.neuropsychologia.2022.108349.
