@@ -1,6 +1,9 @@
 <header class="site-header">
   <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    <a href="{{ site.github.url }}/">
+      <img class="site-logo" src="{{ site.github.url }}/assets/img/brain-logo.png" alt="" aria-hidden="true">
+      <span>{{ site.title }}</span>
+    </a>
   </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
