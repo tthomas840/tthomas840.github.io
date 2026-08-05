@@ -1,7 +1,7 @@
 .home-page.quarto-style {
   display: grid;
-  grid-template-columns: 270px minmax(0, 1fr);
-  gap: 54px;
+  grid-template-columns: 245px minmax(0, 1fr);
+  gap: 58px;
   padding: 24px 0 64px;
 }
 
@@ -10,14 +10,17 @@
   text-align: center;
 }
 
-.profile-photo {
+.home-page .profile-photo {
   aspect-ratio: 1 / 1;
   border-radius: 50%;
   display: block;
   margin: 0 auto 22px;
+  max-height: 210px;
+  max-width: 210px;
   object-fit: cover;
   object-position: center;
   width: 210px;
+  height: 210px;
 }
 
 .profile h1 {
@@ -35,26 +38,45 @@
   margin: 0 auto 20px;
 }
 
-.profile-links {
-  display: inline-grid;
-  gap: 8px;
-  justify-items: start;
-  margin-top: 4px;
+.profile-icons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 12px;
 }
 
-.profile-links a {
+.profile-icons a {
+  align-items: center;
+  border: 1px solid #d8d0c1;
+  border-radius: 50%;
   color: #39729e;
-  font-size: 15px;
+  display: inline-flex;
+  font-size: 16px;
+  height: 34px;
+  justify-content: center;
+  width: 34px;
 }
 
-.profile-links i {
-  color: #555;
-  margin-right: 8px;
-  width: 16px;
+.profile-icons a:hover {
+  background: #eee7da;
+  color: #2f5d80;
 }
 
+.quick-info,
 .bio {
   max-width: 760px;
+}
+
+.quick-info {
+  align-self: start;
+  display: grid;
+  gap: 24px 38px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.quick-intro,
+.quick-info section:last-child {
+  grid-column: 1 / -1;
 }
 
 .bio h4 {
@@ -66,10 +88,22 @@
   padding-bottom: 8px;
 }
 
-.bio h4:not(:first-child) {
+.quick-info h4,
+.bio h4 {
+  border-bottom: 1px solid #ded6c8;
+  color: #222;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 12px;
+  padding-bottom: 8px;
+}
+
+.bio h4:not(:first-child),
+.quick-info h4:not(:first-child) {
   margin-top: 28px;
 }
 
+.quick-info p,
 .bio p {
   color: #333;
   font-size: 16px;
@@ -77,10 +111,12 @@
   margin: 0 0 15px;
 }
 
+.quick-info ul,
 .bio ul {
   margin: 0 0 18px 23px;
 }
 
+.quick-info li,
 .bio li {
   color: #333;
   font-size: 16px;
@@ -88,10 +124,18 @@
   margin-bottom: 8px;
 }
 
+.compact-list.columns {
+  columns: 2;
+}
+
 .bio a {
   color: #39729e;
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+
+.detail-sections {
+  grid-column: 2;
 }
 
 @media (max-width: 800px) {
@@ -101,11 +145,23 @@
     padding-top: 8px;
   }
 
-  .profile-photo {
+  .home-page .profile-photo {
+    height: 180px;
+    max-height: 180px;
+    max-width: 180px;
     width: 180px;
   }
 
   .profile h1 {
     font-size: 28px;
+  }
+
+  .quick-info,
+  .detail-sections {
+    grid-column: auto;
+  }
+
+  .quick-info {
+    grid-template-columns: 1fr;
   }
 }
