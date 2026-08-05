@@ -7,7 +7,6 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Home',               url: ''}
 - {name: 'About',              url: 'about'}
 - {name: 'Projects',           url: 'projects'}
 - {name: 'UX Portfolio',       url: 'ux-portfolio'}

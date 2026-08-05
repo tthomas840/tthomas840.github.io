@@ -79,6 +79,10 @@
   grid-column: 1 / -1;
 }
 
+.wide-section {
+  grid-column: 1 / -1;
+}
+
 .bio h4 {
   border-bottom: 1px solid #ded6c8;
   color: #222;
@@ -111,6 +115,11 @@
   margin: 0 0 15px;
 }
 
+.quick-info .note {
+  color: #555;
+  margin-top: 4px;
+}
+
 .quick-info ul,
 .bio ul {
   margin: 0 0 18px 23px;
@@ -134,10 +143,6 @@
   text-underline-offset: 2px;
 }
 
-.detail-sections {
-  grid-column: 2;
-}
-
 @media (max-width: 800px) {
   .home-page.quarto-style {
     grid-template-columns: 1fr;
@@ -156,8 +161,7 @@
     font-size: 28px;
   }
 
-  .quick-info,
-  .detail-sections {
+  .quick-info {
     grid-column: auto;
   }
 
