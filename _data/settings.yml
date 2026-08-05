@@ -10,6 +10,7 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Projects',           url: 'projects'}
 - {name: 'UX Portfolio',       url: 'ux-portfolio'}
+- {name: 'Resources',          url: 'multilingual-ai-literacy-resources'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
