@@ -77,6 +77,7 @@ With a background in linguistics and cognitive science, much of my past research
 
 - Thomas, T., Martin, C. D., & Caffarra, S. (2025). The impact of speaker accent on discourse processing: A frequency investigation. *Brain and Language, 260*, 105509. [DOI](https://doi.org/10.1016/j.bandl.2024.105509)
 - Xu, Y., Thomas, T., Yu, C. L., & Pan, E. Z. (2025). What makes children perceive or not perceive minds in generative AI? *Computers in Human Behavior: Artificial Humans*. [DOI](https://doi.org/10.1016/j.chbah.2025.100135)
+- Thomas, T., Takahesu-Tabori, A., Stoehr, A., & Xu, Y. (2025). The impact of voice onset time variability on ASR performance in bilingual Spanish-English children. Oral presentation at ISB15, Donostia–San Sebastián.
 - Xu, Y., Thomas, T., Li, Z., Chan, M., Lin, G., & Moore, K. (2024). Examining children’s perceptions of AI-enabled interactive media characters. *International Journal of Child-Computer Interaction*. [DOI](https://doi.org/10.1016/j.ijcci.2024.100700)
 - Li, Z., Thomas, T., Yu, C. L., & Xu, Y. (2024). "I Said Knight, Not Night!": Children’s communication breakdowns and repairs with AI versus human partners. *Proceedings of the 23rd Annual ACM Interaction Design and Children Conference*. [DOI](https://doi.org/10.1145/3628516.3659394)
 
