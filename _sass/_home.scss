@@ -85,7 +85,43 @@
 }
 
 .connect-section {
+  background: #fbf8f0;
+  border: 1px solid #d8d0c1;
+  border-radius: 8px;
+  box-shadow: 0 12px 30px rgba(72, 61, 45, 0.05);
+  display: grid;
+  gap: 24px;
+  grid-template-columns: minmax(0, 1fr) auto;
   max-width: 860px;
+  padding: 24px 26px;
+}
+
+.connect-section h4 {
+  margin-top: 0;
+}
+
+.connect-section p:last-child {
+  margin-bottom: 0;
+}
+
+.connect-actions {
+  align-content: center;
+  display: grid;
+  gap: 10px;
+  min-width: 110px;
+}
+
+.connect-actions a {
+  border: 1px solid #c8bca9;
+  border-radius: 999px;
+  color: #39729e;
+  font-size: 14px;
+  padding: 8px 13px;
+  text-align: center;
+}
+
+.connect-actions a:hover {
+  background: #eee7da;
 }
 
 .bio h4 {
@@ -172,5 +208,16 @@
 
   .quick-info {
     grid-template-columns: 1fr;
+  }
+
+  .connect-section {
+    grid-template-columns: 1fr;
+    padding: 20px;
+  }
+
+  .connect-actions {
+    align-content: start;
+    display: flex;
+    flex-wrap: wrap;
   }
 }
