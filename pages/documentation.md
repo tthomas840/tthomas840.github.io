@@ -8,14 +8,14 @@ page_class: projects-page-content
 
 <div class="projects-page" markdown="1">
 
-My current work focuses on advancing our understanding of childhood learning, cognition, and AI technologies, especially in multilingual and educationally diverse contexts.
+My academic work focuses on advancing our understanding of childhood learning, cognition, and AI technologies, especially in multilingual and educationally diverse contexts.
 
 <div class="project-grid">
   <article class="project-card">
     <img src="{{ site.github.url }}/assets/img/projects/stem-conversational-technologies.png" alt="Child interacting with an educational media character on PBS KIDS">
     <div class="project-card-body">
       <h2>Children’s STEM Learning with Conversational Technologies</h2>
-      <p>This project, headed by Dr. Mark Warschauer and Dr. <a href="https://ying-xu.com/" target="_blank">Ying Xu</a>, and partnered with PBS Kids, investigates the use of conversational agents to support children’s learning during interactive educational television consumption. The end goal of this project is to distribute the conversational videos as publicly accessible content via <a href="https://pbskids.org/" target="_blank">PBS KIDS</a> platforms to millions of children across the country.</p>
+      <p>This project, headed by Dr. Mark Warschauer and Dr. Ying Xu, and partnered with PBS Kids, investigates the use of conversational agents to support children’s learning during interactive educational television consumption. The end goal of this project is to distribute the conversational videos as publicly accessible content via <a href="https://pbskids.org/" target="_blank">PBS KIDS</a> platforms to millions of children across the country.</p>
     </div>
   </article>
 
@@ -23,7 +23,7 @@ My current work focuses on advancing our understanding of childhood learning, co
     <img src="{{ site.github.url }}/assets/img/projects/bilingual-reading-partners.png" alt="Bilingual Sesame Street storybook with English and Spanish speech bubbles">
     <div class="project-card-body">
       <h2>Conversational Agents as Bilingual Reading Partners</h2>
-      <p>To enhance children’s home literacy environments, this project, led by <a href="https://ying-xu.com/" target="_blank">Ying Xu</a>, explores the use of conversational agents to promote language learning through interactive, bilingual English-Spanish storybook reading. Drawing on the principles of dialogic reading, Xu has developed, implemented, and evaluated fully automated smart speaker reading companions that not only narrate stories to children but also engage them in meaningful, open-ended conversations in both languages.</p>
+      <p>To enhance children’s home literacy environments, this project, led by Ying Xu, explores the use of conversational agents to promote language learning through interactive, bilingual English-Spanish storybook reading. Drawing on the principles of dialogic reading, Xu has developed, implemented, and evaluated fully automated smart speaker reading companions that not only narrate stories to children but also engage them in meaningful, open-ended conversations in both languages.</p>
     </div>
   </article>
 
@@ -49,7 +49,7 @@ My current work focuses on advancing our understanding of childhood learning, co
     <img src="{{ site.github.url }}/assets/img/projects/educational-storytelling-ai.png" alt="Children greeting each other in multiple languages">
     <div class="project-card-body">
       <h2>Educational Storytelling: The Role of Generative AI in Children’s Learning</h2>
-      <p>This research, led by Dr. <a href="https://ying-xu.com/" target="_blank">Ying Xu</a>, aims to explore how large language models (LLMs) and generative AI can impact children's learning. As an initial step, we have launched a study that involves using generative AI to co-create STEM-focused narratives with children. To ensure the AI-generated content is educationally enriching, we experimented with various strategies, including theory-based prompt engineering, retrieval-augmented generation (RAG), and fine-tuning techniques.</p>
+      <p>This research, led by Dr. Ying Xu, aims to explore how large language models (LLMs) and generative AI can impact children's learning. As an initial step, we have launched a study that involves using generative AI to co-create STEM-focused narratives with children. To ensure the AI-generated content is educationally enriching, we experimented with various strategies, including theory-based prompt engineering, retrieval-augmented generation (RAG), and fine-tuning techniques.</p>
       <p>These methods help optimize the AI's dialogue output to better support children's educational experiences.</p>
     </div>
   </article>
