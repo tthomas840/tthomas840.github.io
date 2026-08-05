@@ -7,8 +7,6 @@ page_class: about-page-content
 
 <div class="about-page" markdown="1">
 
-# About Me
-
 I am a cognitive neuroscientist and researcher interested in how technology can support multilingual learners and strengthen the active use of minority and heritage languages. My work explores how people engage with AI-powered learning tools, including interactive storybooks, conversational agents, and speech technologies, with a focus on equity, usability, and cultural relevance.
 
 I bring a background in developmental science, human-computer interaction, cognitive neuroscience, and bilingual education, and I am committed to designing inclusive technologies that reflect the linguistic and cultural diversity of their users. I recently completed a postdoctoral fellowship at the Harvard Graduate School of Education, where I studied how children engage with AI-driven learning tools. I now continue as a Visiting Scholar, supporting ongoing research and exploring new opportunities at the intersection of cognitive science, multilingual learning, and educational technology.
