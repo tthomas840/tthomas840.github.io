@@ -1,197 +1,111 @@
-.home-page {
-  padding-bottom: 52px;
-}
-
-.intro {
+.home-page.quarto-style {
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
-  gap: 44px;
-  align-items: center;
-  min-height: 520px;
+  grid-template-columns: 270px minmax(0, 1fr);
+  gap: 54px;
+  padding: 24px 0 64px;
 }
 
-.intro h1 {
-  color: #25312f;
-  font-size: 56px;
-  line-height: 1.04;
-  margin: 8px 0 12px;
+.profile {
+  color: #333;
+  text-align: center;
 }
 
-.eyebrow {
-  color: #7a3f2b;
-  font-size: 14px;
-  font-weight: 700;
-  letter-spacing: 0;
-  margin: 0 0 10px;
-  text-transform: uppercase;
-}
-
-.tagline {
-  color: #4e6460;
-  font-size: 20px;
-  font-weight: 700;
-  line-height: 1.45;
-  margin-bottom: 22px;
-}
-
-.intro-copy p {
-  font-size: 18px;
-}
-
-.intro-image {
-  margin: 0;
-}
-
-.intro-image img {
-  aspect-ratio: 4 / 5;
-  border-radius: 8px;
-  box-shadow: 0 20px 60px rgba(37, 49, 47, 0.12);
-  height: 100%;
+.profile-photo {
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 22px;
   object-fit: cover;
   object-position: center;
-  width: 100%;
+  width: 210px;
 }
 
-.action-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin-top: 26px;
+.profile h1 {
+  color: #222;
+  font-size: 31px;
+  font-weight: 600;
+  line-height: 1.18;
+  margin: 0 0 12px;
 }
 
-.button {
-  background: #25312f;
-  border: 1px solid #25312f;
-  border-radius: 6px;
-  color: #fffefa;
-  display: inline-flex;
-  font-weight: 700;
-  min-height: 42px;
-  padding: 10px 18px;
-}
-
-.button.secondary {
-  background: transparent;
-  color: #25312f;
-}
-
-.snapshot {
-  border-bottom: 1px solid #e7dfd1;
-  border-top: 1px solid #e7dfd1;
-  display: grid;
-  gap: 36px;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  margin: 28px 0 72px;
-  padding: 32px 0;
-}
-
-.snapshot h2,
-.section h2 {
-  color: #25312f;
-  font-size: 30px;
-  margin: 0 0 16px;
-}
-
-.snapshot ul,
-.clean-list {
-  margin-left: 20px;
-}
-
-.snapshot li,
-.clean-list li,
-.publication-list li {
+.role {
+  color: #555;
+  font-size: 15px;
   line-height: 1.55;
+  margin: 0 auto 20px;
 }
 
-.section {
-  margin: 72px 0;
+.profile-links {
+  display: inline-grid;
+  gap: 8px;
+  justify-items: start;
+  margin-top: 4px;
 }
 
-.section-heading {
-  max-width: 720px;
-  margin-bottom: 26px;
+.profile-links a {
+  color: #39729e;
+  font-size: 15px;
 }
 
-.project-grid {
-  display: grid;
-  gap: 18px;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+.profile-links i {
+  color: #555;
+  margin-right: 8px;
+  width: 16px;
 }
 
-.project-card {
-  background: #fffefa;
-  border: 1px solid #e7dfd1;
-  border-radius: 8px;
-  padding: 22px;
+.bio {
+  max-width: 760px;
 }
 
-.project-card h3 {
-  color: #25312f;
-  font-size: 20px;
-  margin-top: 0;
+.bio h4 {
+  border-bottom: 1px solid #ded6c8;
+  color: #222;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 14px;
+  padding-bottom: 8px;
 }
 
-.split {
-  border-top: 1px solid #e7dfd1;
-  display: grid;
-  gap: 40px;
-  grid-template-columns: minmax(240px, 0.65fr) minmax(0, 1fr);
-  padding-top: 42px;
+.bio h4:not(:first-child) {
+  margin-top: 28px;
 }
 
-.publication-list {
-  margin-left: 24px;
-  max-width: 900px;
+.bio p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.7;
+  margin: 0 0 15px;
 }
 
-.contact-section {
-  background: #25312f;
-  border-radius: 8px;
-  color: #fffefa;
-  display: grid;
-  gap: 36px;
-  grid-template-columns: minmax(0, 1fr) 260px;
-  padding: 34px;
+.bio ul {
+  margin: 0 0 18px 23px;
 }
 
-.contact-section h2,
-.contact-section .eyebrow {
-  color: #fffefa;
+.bio li {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 8px;
 }
 
-.contact-links {
-  display: grid;
-  gap: 10px;
-  align-content: center;
+.bio a {
+  color: #39729e;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
-.contact-links a {
-  border: 1px solid rgba(255, 254, 250, 0.42);
-  border-radius: 6px;
-  color: #fffefa;
-  font-weight: 700;
-  padding: 11px 14px;
-}
-
-@media (max-width: 760px) {
-  .intro,
-  .snapshot,
-  .project-grid,
-  .split,
-  .contact-section {
+@media (max-width: 800px) {
+  .home-page.quarto-style {
     grid-template-columns: 1fr;
+    gap: 34px;
+    padding-top: 8px;
   }
 
-  .intro {
-    gap: 28px;
-    min-height: 0;
+  .profile-photo {
+    width: 180px;
   }
 
-  .intro h1 {
-    font-size: 40px;
-  }
-
-  .intro-copy p {
-    font-size: 16px;
+  .profile h1 {
+    font-size: 28px;
   }
 }
