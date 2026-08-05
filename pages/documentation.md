@@ -68,10 +68,10 @@ My academic work focuses on advancing our understanding of childhood learning, c
 
 With a background in linguistics and cognitive science, much of my past research experience focused on investigating cognitive mechanisms of multilingual processing.
 
-- 2017-2023: Does who you are talking to affect what you remember? Basque Center on Cognition, Brain, and Language & University of the Basque Country. Studied how speaker characteristics affect attention, memory, and discourse processing using behavioral and EEG methods.
-- 2016-2017: Age-related changes in cognitive and sensory processing. Indiana University Bloomington. Investigated links between sensory processing and cognition in aging adults through cognitive batteries and sensory tests.
-- 2014-2017: Phonotactic repairs in L2 learners of English. Indiana University Bloomington. Studied the lexical encoding of perceptual epenthetic vowels in English as a second language learners.
-- 2013-2017: Visual perception and chronic cannabis use. Indiana University Bloomington. Researched the effects of long-term cannabis use on perceptual, structural, and cognitive processes using EEG and eye-tracking data.
+- 2017-2023: Does who you are talking to affect what you remember? *Basque Center on Cognition, Brain, and Language & University of the Basque Country.* Studied how speaker characteristics affect attention, memory, and discourse processing using behavioral and EEG methods.
+- 2016-2017: Age-related changes in cognitive and sensory processing. *Indiana University Bloomington.* Investigated links between sensory processing and cognition in aging adults through cognitive batteries and sensory tests.
+- 2014-2017: Phonotactic repairs in L2 learners of English. *Indiana University Bloomington.* Studied the lexical encoding of perceptual epenthetic vowels in English as a second language learners.
+- 2013-2017: Visual perception and chronic cannabis use. *Indiana University Bloomington.* Researched the effects of long-term cannabis use on perceptual, structural, and cognitive processes using EEG and eye-tracking data.
 
 ## Selected Publications and Presentations
 
