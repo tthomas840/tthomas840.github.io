@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="page-content">
+<div class="page-content{% if page.page_class %} {{ page.page_class }}{% endif %}">
   <h1>
     {{ page.title }}
   </h1>
