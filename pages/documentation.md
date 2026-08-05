@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Projects
+title: Research Projects
 #category: documentation
 permalink: /projects
 page_class: projects-page-content
 ---
 
 <div class="projects-page" markdown="1">
-
-# Ongoing Research Projects
 
 My current work focuses on advancing our understanding of childhood learning, cognition, and AI technologies, especially in multilingual and educationally diverse contexts.
 
