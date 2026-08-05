@@ -1,7 +1,7 @@
 .home-page.quarto-style {
   display: grid;
-  grid-template-columns: 245px minmax(0, 1fr);
-  gap: 58px;
+  grid-template-columns: 230px minmax(0, 1fr);
+  gap: 46px;
   padding: 24px 0 64px;
 }
 
@@ -64,7 +64,7 @@
 
 .quick-info,
 .bio {
-  max-width: 760px;
+  max-width: 860px;
 }
 
 .quick-info {
@@ -72,6 +72,7 @@
   display: grid;
   gap: 24px 38px;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  width: 100%;
 }
 
 .quick-intro,
@@ -81,6 +82,10 @@
 
 .wide-section {
   grid-column: 1 / -1;
+}
+
+.connect-section {
+  max-width: 860px;
 }
 
 .bio h4 {
