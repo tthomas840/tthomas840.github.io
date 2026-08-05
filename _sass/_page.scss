@@ -129,17 +129,13 @@
 
 .project-card img {
   aspect-ratio: 1 / 1;
+  background: #fff;
   display: block;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
-  width: 100%;
-}
-
-.project-card img.project-image-contain {
-  background: #fff;
   object-fit: contain;
+  object-position: center;
   padding: 10px;
+  width: 100%;
 }
 
 .project-card-body {

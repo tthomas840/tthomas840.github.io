@@ -22,7 +22,7 @@ My current work focuses on advancing our understanding of childhood learning, co
   </article>
 
   <article class="project-card">
-    <img class="project-image-contain" src="{{ site.github.url }}/assets/img/projects/bilingual-reading-partners.png" alt="Bilingual Sesame Street storybook with English and Spanish speech bubbles">
+    <img src="{{ site.github.url }}/assets/img/projects/bilingual-reading-partners.png" alt="Bilingual Sesame Street storybook with English and Spanish speech bubbles">
     <div class="project-card-body">
       <h2>Conversational Agents as Bilingual Reading Partners</h2>
       <p>To enhance children’s home literacy environments, this project, led by <a href="https://ying-xu.com/" target="_blank">Ying Xu</a>, explores the use of conversational agents to promote language learning through interactive, bilingual English-Spanish storybook reading. Drawing on the principles of dialogic reading, Xu has developed, implemented, and evaluated fully automated smart speaker reading companions that not only narrate stories to children but also engage them in meaningful, open-ended conversations in both languages.</p>
