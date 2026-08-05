@@ -85,16 +85,15 @@
 }
 
 .connect-section {
-  background: #fffdf8;
-  border: 1px solid #cdbfaaa;
-  border-left: 4px solid #39729e;
+  background: #fbf8f0;
+  border: 1px solid #d2c7b8;
   border-radius: 8px;
-  box-shadow: 0 14px 34px rgba(72, 61, 45, 0.09);
+  box-shadow: 0 10px 24px rgba(72, 61, 45, 0.07);
   display: grid;
   gap: 24px;
   grid-template-columns: minmax(0, 1fr) auto;
   max-width: 860px;
-  padding: 24px 26px 24px 30px;
+  padding: 24px 26px;
 }
 
 .connect-section h4 {
