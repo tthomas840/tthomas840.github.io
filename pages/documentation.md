@@ -17,15 +17,15 @@ My current work focuses on advancing our understanding of childhood learning, co
     <img src="{{ site.github.url }}/assets/img/projects/stem-conversational-technologies.png" alt="Child interacting with an educational media character on PBS KIDS">
     <div class="project-card-body">
       <h2>Children’s STEM Learning with Conversational Technologies</h2>
-      <p>This project, headed by Dr. Mark Warschauer and Dr. Ying Xu and partnered with PBS KIDS, investigates how conversational agents can support children’s learning during interactive educational media experiences. The end goal is to distribute conversational videos as publicly accessible content via PBS KIDS platforms.</p>
+      <p>This project, headed by Dr. Mark Warschauer and Dr. <a href="https://ying-xu.com/" target="_blank">Ying Xu</a>, and partnered with PBS Kids, investigates the use of conversational agents to support children’s learning during interactive educational television consumption. The end goal of this project is to distribute the conversational videos as publicly accessible content via <a href="https://pbskids.org/" target="_blank">PBS KIDS</a> platforms to millions of children across the country.</p>
     </div>
   </article>
 
   <article class="project-card">
-    <img src="{{ site.github.url }}/assets/img/projects/bilingual-reading-partners.png" alt="Bilingual Sesame Street storybook with English and Spanish speech bubbles">
+    <img class="project-image-contain" src="{{ site.github.url }}/assets/img/projects/bilingual-reading-partners.png" alt="Bilingual Sesame Street storybook with English and Spanish speech bubbles">
     <div class="project-card-body">
       <h2>Conversational Agents as Bilingual Reading Partners</h2>
-      <p>To enhance children’s home literacy environments, this project explores conversational agents that support interactive English-Spanish storybook reading. Drawing on dialogic reading, the work evaluates smart speaker companions that narrate stories and engage children in meaningful, open-ended conversations in both languages.</p>
+      <p>To enhance children’s home literacy environments, this project, led by <a href="https://ying-xu.com/" target="_blank">Ying Xu</a>, explores the use of conversational agents to promote language learning through interactive, bilingual English-Spanish storybook reading. Drawing on the principles of dialogic reading, Xu has developed, implemented, and evaluated fully automated smart speaker reading companions that not only narrate stories to children but also engage them in meaningful, open-ended conversations in both languages.</p>
     </div>
   </article>
 
@@ -33,7 +33,8 @@ My current work focuses on advancing our understanding of childhood learning, co
     <img src="{{ site.github.url }}/assets/img/projects/neural-engagement-reading-ai.png" alt="Child wearing an fNIRS cap while reading">
     <div class="project-card-body">
       <h2>Patterns of Neural Engagement During Reading with AI</h2>
-      <p>This project investigates children’s neural responses during interactions with AI and human partners. Using fNIRS and naturalistic story-listening tasks, the study examines how developing brains process social interaction in educational contexts.</p>
+      <p>This project investigates the neural responses of children during interactions with both AI and human partners. The current study, led by Dr. Chi-Lin Yu of OSU, looks at how children's developing brains process social interactions with both humans and AI, focusing on the differences in neural and behavioral responses.</p>
+      <p>By combining neuroimaging techniques like functional near-infrared spectroscopy (fNIRS) with naturalistic tasks such as story-listening and real-time verbal interactions, the project aims to uncover the mechanisms underlying children’s social communication in ecologically valid contexts.</p>
     </div>
   </article>
 
@@ -41,7 +42,8 @@ My current work focuses on advancing our understanding of childhood learning, co
     <img src="{{ site.github.url }}/assets/img/projects/ai-child-perspective.png" alt="Child speaking with a smart speaker">
     <div class="project-card-body">
       <h2>Understanding and Being Understood: AI and the Child’s Perspective</h2>
-      <p>This work explores how children perceive AI agents, navigate trust, and respond to communication breakdowns. It also examines fairness and bias in speech recognition systems used by bilingual and dialect-diverse children.</p>
+      <p>This project explores two interrelated efforts to build more ethical AI systems for children. One thread examines how children perceive AI agents—how they assign human-like qualities, form relationships, and navigate trust. We study the social and cognitive processes that shape these interactions, especially when AI begins to feel “too human.” The second line of investigation focuses on the cultural and linguistic dimensions of fairness in AI.</p>
+      <p>We analyze how bilingual and dialect-diverse children experience speech recognition systems, surfacing patterns of exclusion and bias. This work asks how AI might be designed to better serve—and be accountable to—diverse young users. Together, these strands offer a broader view of what ethical AI means when the users are children: not just fair or accurate, but attentive to the ways young people relate to and are represented by intelligent systems.</p>
     </div>
   </article>
 
@@ -49,7 +51,8 @@ My current work focuses on advancing our understanding of childhood learning, co
     <img src="{{ site.github.url }}/assets/img/projects/educational-storytelling-ai.png" alt="Children greeting each other in multiple languages">
     <div class="project-card-body">
       <h2>Educational Storytelling: The Role of Generative AI in Children’s Learning</h2>
-      <p>This research explores how large language models and generative AI can shape children’s learning. Current work includes co-creating STEM-focused narratives with children and testing strategies such as theory-based prompting, retrieval-augmented generation, and fine-tuning to support educational dialogue.</p>
+      <p>This research, led by Dr. <a href="https://ying-xu.com/" target="_blank">Ying Xu</a>, aims to explore how large language models (LLMs) and generative AI can impact children's learning. As an initial step, we have launched a study that involves using generative AI to co-create STEM-focused narratives with children. To ensure the AI-generated content is educationally enriching, we experimented with various strategies, including theory-based prompt engineering, retrieval-augmented generation (RAG), and fine-tuning techniques.</p>
+      <p>These methods help optimize the AI's dialogue output to better support children's educational experiences.</p>
     </div>
   </article>
 
@@ -57,8 +60,8 @@ My current work focuses on advancing our understanding of childhood learning, co
     <img src="{{ site.github.url }}/assets/img/projects/global-ai-youth-learning.png" alt="Global collaboration map with people connecting across regions">
     <div class="project-card-body">
       <h2>Generative AI and Youth Learning Across the Globe</h2>
-      <p>This series of studies examines how adolescents use AI in learning contexts and how individual, social, linguistic, and infrastructural factors shape those experiences. My role focuses on survey development, multilingual accessibility, and translating findings into guidance for responsible and equitable AI adoption.</p>
-      <p><a href="{{ site.github.url }}/assets/state-of-ai-k12-mexico-en.pdf">Read the policy brief</a> or <a href="https://revista.drclas.harvard.edu/the-ai-era-digital-divide-listening-to-mexican-youth-voices/" target="_blank">read the ReVista article</a>.</p>
+      <p>In this series of studies, we set out to explore how adolescents are using AI in their learning processes and understand the individual, social, and contextual factors that shape how and why students choose to engage with AI in the first place. The project aims to generate actionable insights to support Ministries of Education in developing inclusive, evidence-based AI integration strategies in schools.</p>
+      <p>My role focuses on survey development, multilingual accessibility, and framing the findings in ways that support ethical and equitable AI adoption in education systems. Check out our recent policy report, available in <a href="{{ site.github.url }}/assets/state-of-ai-k12-mexico-en.pdf">English</a> and <a href="https://trisha-thomas.com/s/state-of-ai-k12-mexico-es.pdf" target="_blank">Spanish</a>. Also, see our recent article for ReVista Harvard Review of Latin America <a href="https://revista.drclas.harvard.edu/the-ai-era-digital-divide-listening-to-mexican-youth-voices/" target="_blank">here</a>!</p>
     </div>
   </article>
 </div>

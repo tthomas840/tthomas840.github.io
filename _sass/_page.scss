@@ -136,6 +136,12 @@
   width: 100%;
 }
 
+.project-card img.project-image-contain {
+  background: #fff;
+  object-fit: contain;
+  padding: 10px;
+}
+
 .project-card-body {
   padding: 22px 24px 24px;
 }
