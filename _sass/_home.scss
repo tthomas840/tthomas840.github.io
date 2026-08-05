@@ -206,10 +206,15 @@
   columns: 2;
 }
 
+.quick-info a,
 .bio a {
   color: #39729e;
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+
+.publication-list strong {
+  font-weight: 600;
 }
 
 @media (max-width: 800px) {
