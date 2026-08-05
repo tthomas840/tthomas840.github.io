@@ -112,8 +112,8 @@
 
 .project-grid {
   display: grid;
-  gap: 26px;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  grid-template-columns: 1fr;
   margin: 34px 0 42px;
 }
 
@@ -122,20 +122,22 @@
   border: 1px solid #d8cdbc;
   border-radius: 8px;
   box-shadow: 0 10px 22px rgba(72, 61, 45, 0.05);
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
   overflow: hidden;
 }
 
 .project-card img {
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 1 / 1;
   display: block;
-  height: auto;
+  height: 100%;
   object-fit: cover;
   object-position: center;
   width: 100%;
 }
 
 .project-card-body {
-  padding: 20px 20px 22px;
+  padding: 22px 24px 24px;
 }
 
 .projects-page .project-card h2 {
@@ -189,5 +191,14 @@
 
   .project-grid {
     grid-template-columns: 1fr;
+  }
+
+  .project-card {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card img {
+    aspect-ratio: 16 / 10;
+    height: auto;
   }
 }
