@@ -171,6 +171,29 @@
   margin: 0 0 18px 23px;
 }
 
+.skill-list {
+  margin: 0 0 18px;
+}
+
+.skill-list dt {
+  color: #333;
+  font-size: 15.5px;
+  font-weight: 600;
+  line-height: 1.45;
+  margin-top: 10px;
+}
+
+.skill-list dt:first-child {
+  margin-top: 0;
+}
+
+.skill-list dd {
+  color: #555;
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 2px 0 0;
+}
+
 .quick-info li,
 .bio li {
   color: #333;
