@@ -14,13 +14,12 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope', label: 'Email', link: 'mailto:t.thomas@bcbl.eu'}
 - {icon: 'linkedin', label: 'LinkedIn', link: 'https://www.linkedin.com/in/trisha-thomas-a76436223/'}
 - {icon: 'google', label: 'Google Scholar', link: 'https://scholar.google.com/citations?hl=en&user=aVvXJIkAAAAJ'}
+- {icon: 'orcid', label: 'ORCID', link: 'https://orcid.org/0000-0001-8323-1012'}
 #- {icon: 'rss-square', link: 'feed.xml'}
 #- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 #- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-#- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
 
 
 # Customize site text

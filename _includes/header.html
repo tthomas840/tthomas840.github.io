@@ -10,7 +10,13 @@
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
     {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" class="menu-link social-link" target="_blank" aria-label="{{ item.label }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      <a href="{{ item.link }}" class="menu-link social-link" target="_blank" aria-label="{{ item.label }}">
+        {% if item.icon == 'orcid' %}
+          <span class="orcid-mark" aria-hidden="true">iD</span>
+        {% else %}
+          <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
+        {% endif %}
+      </a>
     {% endfor %}
   </nav>
   <div class="dropdown">
