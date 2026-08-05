@@ -7,17 +7,16 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Home',               url: ''}
 - {name: 'About',              url: 'about'}
-- {name: 'Research',           url: 'documentation'}
-- {name: 'Education',          url: 'facts'}
-- {name: 'Publications',       url: 'sample-posts'}
-- {name: 'Contact',            url: 'contact'}
-- {name: 'off the clock',      url: 'resources'}
+- {name: 'Projects',           url: 'projects'}
+- {name: 'UX Portfolio',       url: 'ux-portfolio'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope', link:    'mailto:t.thomas@bcbl.eu'}
-- {icon: 'rss-square', link: 'https://scholar.google.com/citations?hl=en&user=aVvXJIkAAAAJ'}
+- {icon: 'envelope', label: 'Email', link: 'mailto:t.thomas@bcbl.eu'}
+- {icon: 'linkedin', label: 'LinkedIn', link: 'https://www.linkedin.com/in/trisha-thomas-a76436223/'}
+- {icon: 'google', label: 'Google Scholar', link: 'https://scholar.google.com/citations?hl=en&user=aVvXJIkAAAAJ'}
 #- {icon: 'rss-square', link: 'feed.xml'}
 #- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 #- {icon: 'instagram', link:  'https://instagram.com/paululele'}

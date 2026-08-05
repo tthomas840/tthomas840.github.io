@@ -2,26 +2,39 @@
 layout: page
 title: Projects
 #category: documentation
-permalink: /documentation
+permalink: /projects
 ---
 
+# Ongoing Research Projects
 
-## 2019-ongoing: **Does who you are talking to affect what you remember?**
+My current work focuses on childhood learning, cognition, and AI technologies, especially in multilingual and educationally diverse contexts.
 
-I use behavioral and electrophysiological techniques to explore how speaker characteristics affect cognitive processes in attention and memory. I am primarily interested in how increases in listening effort can affect information encoding and retention. I also use EEG to study how the brain treats accent information  at different levels of discourse processing. 
+## Children's STEM Learning with Conversational Technologies
 
-## 2021-ongoing: **Converse to Learn**
+This project investigates how conversational agents can support children's learning during interactive educational media experiences. The work includes study design, child-centered evaluation, and analysis of engagement and learning outcomes.
 
-This project, headed by Dr. Mark Warschauer and Dr. Ying Xu of the Digital Learning Lab at University of California, Irvine and partnered with PBS kids, investigates the use of conversational agents to support children’s learning during interactive educational television consumption. As a visiting scholar I am assisting with data collection at a SoCal elementary school and data analysis.
+## Conversational Agents as Bilingual Reading Partners
 
-## 2016-2017: **Age-related changes in cognitive and sensory processing**
+This work explores interactive English-Spanish storybook reading with automated conversational companions. The goal is to better understand how responsive reading technologies can support language learning and home literacy environments.
 
-As a full-time Research Associate on a collaborative project between the Department of Psychological Sciences and the Speech and Hearing Sciences Department at Indiana University Bloomington, I administered cognitive batteries, auditory and visual tests to an elderly population of approximately 200 participants, collecting and analyzing longitudinal data to investigate links between sensory processing and cognition in aging adults.
+## Understanding and Being Understood
 
-## 2014-2017: **Phonotactic repairs in L2 learners of English**
+This line of work studies children's perceptions of AI agents, including trust, social understanding, communication breakdowns, and repair strategies. It also examines fairness and bias in speech recognition systems used by bilingual and dialect-diverse children.
 
-For my undergraduate honors thesis, I programmed a Lexical Decision Task to study the lexical encoding of perceptual epenthetic vowels in English as a second language learners by examining whether the sound sequences permitted in one's L1 influence the way L2 words are represented in the mental lexicon. Check out our findings here!
+## Generative AI and Youth Learning
 
-## 2013-2017: **Visual perception and chronic cannabis use**
+In this series of studies, I examine how students use AI in learning contexts and how individual, social, and linguistic factors shape those experiences. My role focuses on survey development, multilingual accessibility, and translating findings into guidance for responsible and equitable AI adoption.
 
-As an undergraduate research assistant in Dr. Tom Busey’s Visual Perception and Electrophysiological Lab at Indiana University Bloomington, I collected EEG and eye tracking data from cannabis users as part of a multi-lab study to better understand the effects of long term cannabis use on perceptual,structural and cognitive processes. 
+## Past Research Highlights
+
+- 2017-2023: Studied how speaker accent affects attention, memory, and discourse processing using behavioral and EEG methods.
+- 2016-2017: Investigated links between sensory processing and cognition in aging adults at Indiana University Bloomington.
+- 2014-2017: Studied phonotactic repairs and lexical processing in second language learners of English.
+- 2013-2017: Contributed to EEG and eye-tracking research on visual perception and chronic cannabis use.
+
+## Selected Publications and Presentations
+
+- Thomas, T., Martin, C. D., & Caffarra, S. (2025). The impact of speaker accent on discourse processing: A frequency investigation. *Brain and Language, 260*, 105509.
+- Xu, Y., Thomas, T., Yu, C. L., & Pan, E. Z. (2025). What makes children perceive or not perceive minds in generative AI? *Computers in Human Behavior: Artificial Humans*.
+- Xu, Y., Thomas, T., Li, Z., Chan, M., Lin, G., & Moore, K. (2024). Examining children's perceptions of AI-enabled interactive media characters. *International Journal of Child-Computer Interaction*.
+- Li, Z., Thomas, T., Yu, C. L., & Xu, Y. (2024). "I Said Knight, Not Night!": Children's communication breakdowns and repairs with AI versus human partners. *Proceedings of the 23rd Annual ACM Interaction Design and Children Conference*.

@@ -3,20 +3,121 @@ layout: default
 title: Home
 ---
 
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
+<main class="home-page">
+  <section class="intro" id="about">
+    <div class="intro-copy">
+      <p class="eyebrow">Hi, I am Trisha.</p>
+      <h1>Trisha B. Thomas, Ph.D.</h1>
+      <p class="tagline">AI and UX Researcher | Learning Scientist | Cognitive Neuroscientist</p>
+      <p>
+        I study how people, especially multilingual learners, interact with AI-powered learning technologies.
+        My work bridges developmental science, language learning, and human-computer interaction, with a focus
+        on inclusive, culturally responsive design.
+      </p>
+      <p>
+        I have led and contributed to projects at Harvard University, the University of Michigan, and the
+        Basque Center on Cognition, Brain, and Language, collaborating with educators, designers, and researchers
+        to create tools that support equity in learning.
+      </p>
+      <div class="action-row">
+        <a class="button" href="{{ site.github.url }}/assets/cv.pdf">CV</a>
+        <a class="button secondary" href="#contact">Contact</a>
+      </div>
+    </div>
+    <figure class="intro-image">
+      <img src="{{ site.github.url }}/assets/img/iu.png" alt="Trisha Thomas at Indiana University">
+    </figure>
+  </section>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div>
+  <section class="snapshot" aria-label="Quick snapshot">
+    <div>
+      <h2>Focus Areas</h2>
+      <ul>
+        <li>Human-AI interaction</li>
+        <li>Language development</li>
+        <li>Inclusive UX research</li>
+        <li>Minority language support</li>
+        <li>Ethical AI literacy</li>
+      </ul>
+    </div>
+    <div>
+      <h2>Background</h2>
+      <ul>
+        <li>Ph.D. in Cognitive Neuroscience, University of the Basque Country and BCBL</li>
+        <li>Postdoctoral researcher, Harvard University and University of Michigan</li>
+        <li>Fluent in English and Spanish, with experience in multilingual research design</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="projects">
+    <div class="section-heading">
+      <p class="eyebrow">Current Work</p>
+      <h2>Research and Design Projects</h2>
+      <p>
+        My recent projects focus on childhood learning, cognition, and equitable AI technologies.
+      </p>
+    </div>
+    <div class="project-grid">
+      <article class="project-card">
+        <h3>Children's STEM Learning with Conversational Technologies</h3>
+        <p>Evaluating conversational agents that support children during interactive educational media experiences.</p>
+      </article>
+      <article class="project-card">
+        <h3>Bilingual Reading Partners</h3>
+        <p>Designing and studying English-Spanish interactive storybook experiences that support home literacy.</p>
+      </article>
+      <article class="project-card">
+        <h3>AI and the Child's Perspective</h3>
+        <p>Studying children's trust, social perception, and communication breakdowns with AI systems.</p>
+      </article>
+      <article class="project-card">
+        <h3>Generative AI and Youth Learning</h3>
+        <p>Developing evidence that helps education leaders adopt AI in inclusive and culturally responsive ways.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section split">
+    <div>
+      <p class="eyebrow">What I Do</p>
+      <h2>Research for Better Learning Tools</h2>
+    </div>
+    <ul class="clean-list">
+      <li>Design, implementation, and analysis of studies with children, families, and educational tools.</li>
+      <li>Evaluate engagement, comprehension, usability, and learning outcomes.</li>
+      <li>Support EdTech teams in building inclusive, research-informed learning experiences.</li>
+    </ul>
+  </section>
+
+  <section class="section" id="publications">
+    <div class="section-heading">
+      <p class="eyebrow">Selected Work</p>
+      <h2>Publications and Presentations</h2>
+    </div>
+    <ol class="publication-list">
+      <li>Thomas, T., Martin, C. D., & Caffarra, S. (2025). The impact of speaker accent on discourse processing: A frequency investigation. <em>Brain and Language, 260</em>, 105509.</li>
+      <li>Xu, Y., Thomas, T., Yu, C. L., & Pan, E. Z. (2025). What makes children perceive or not perceive minds in generative AI? <em>Computers in Human Behavior: Artificial Humans</em>.</li>
+      <li>Xu, Y., Thomas, T., Li, Z., Chan, M., Lin, G., & Moore, K. (2024). Examining children's perceptions of AI-enabled interactive media characters. <em>International Journal of Child-Computer Interaction</em>.</li>
+      <li>Li, Z., Thomas, T., Yu, C. L., & Xu, Y. (2024). "I Said Knight, Not Night!": Children's communication breakdowns and repairs with AI versus human partners. <em>Proceedings of IDC 2024</em>.</li>
+    </ol>
+  </section>
+
+  <section class="section contact-section" id="contact">
+    <div>
+      <p class="eyebrow">Let's Connect</p>
+      <h2>Open to Collaboration</h2>
+      <p>
+        If you are developing AI-based educational tools, working on child-centered learning design, exploring
+        UX challenges in multilingual contexts, or building AI literacy resources for families and educators,
+        I would love to connect.
+      </p>
+    </div>
+    <div class="contact-links">
+      <a href="mailto:t.thomas@bcbl.eu">Email</a>
+      <a href="https://www.linkedin.com/in/trisha-thomas-a76436223/" target="_blank">LinkedIn</a>
+      <a href="https://scholar.google.com/citations?hl=en&user=aVvXJIkAAAAJ" target="_blank">Google Scholar</a>
+      <a href="{{ site.github.url }}/assets/cv.pdf">CV</a>
+    </div>
+  </section>
+</main>

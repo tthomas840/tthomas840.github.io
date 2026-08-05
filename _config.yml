@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Trisha B. Thomas"
-description:	       "Doctoral Researcher   Basque Center on Cognition, Brain and Language   Donostia-San Sebastian     webpage"
-author:              "Trisha Thomas using Jekyll themes"
+title:		           "Trisha B. Thomas, Ph.D."
+description:	       "AI and UX researcher, learning scientist, and cognitive neuroscientist exploring equitable AI-powered learning technologies."
+author:              "Trisha B. Thomas"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
