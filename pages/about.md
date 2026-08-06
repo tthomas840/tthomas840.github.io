@@ -10,14 +10,32 @@ page_class: about-page-content
 <div class="about-grid" markdown="1">
 <aside class="snapshot-callout" markdown="1">
 
+<img class="about-snapshot-photo" src="{{ site.github.url }}/assets/img/about/about-profile-lake.png" alt="Trisha Thomas by the water">
+
 ## Quick Snapshot
 
-- Ph.D. in Cognitive Neuroscience from the University of the Basque Country / Basque Center on Cognition, Brain, and Language
-- Postdoctoral research at Harvard University and the University of Michigan
-- Publications in *Brain and Language*, *Learning and Instruction*, *International Journal of Human-Computer Studies*, and other peer-reviewed venues
-- Invited talks at the University of Michigan, Stanford University, UC Irvine, and Harvard University
-- English and Spanish research experience, with a focus on multilingual research design
-- Open to remote and global collaboration
+<dl class="snapshot-list">
+  <dt>Ph.D. in Cognitive Neuroscience</dt>
+  <dd>University of the Basque Country, Basque Center on Cognition, Brain, and Language (BCBL)</dd>
+
+  <dt>Postdoctoral Researcher</dt>
+  <dd>Harvard University & University of Michigan</dd>
+
+  <dt>Publications in</dt>
+  <dd><em>Brain and Language</em>, <em>Learning and Instruction</em>, <em>International Journal of Human-Computer Studies</em>, and other peer-reviewed venues</dd>
+
+  <dt>Invited Talks at</dt>
+  <dd>University of Michigan, Stanford University, UC Irvine, Harvard University</dd>
+
+  <dt>Languages</dt>
+  <dd>English & Spanish | Experienced in multilingual research design</dd>
+
+  <dt>Focus Areas</dt>
+  <dd>Human-AI interaction, language development, inclusive UX, minority language support, ethical AI literacy</dd>
+
+  <dt>Location</dt>
+  <dd>Open to remote/global collaboration</dd>
+</dl>
 
 </aside>
 <div class="about-main" markdown="1">

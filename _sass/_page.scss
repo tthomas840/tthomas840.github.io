@@ -30,8 +30,19 @@
   border: 1px solid #d8cdbc;
   border-radius: 8px;
   box-shadow: 0 10px 22px rgba(72, 61, 45, 0.06);
-  min-height: 560px;
+  min-height: 680px;
   padding: 24px 22px 20px;
+}
+
+.about-snapshot-photo {
+  aspect-ratio: 1 / 1;
+  border: 1px solid #d8cdbc;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 24px;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
 }
 
 .snapshot-callout h2 {
@@ -43,16 +54,35 @@
   padding-bottom: 8px;
 }
 
-.snapshot-callout ul {
-  list-style-position: outside;
-  margin: 0 0 0 18px;
+.snapshot-list {
+  margin: 0;
 }
 
-.snapshot-callout li {
+.snapshot-list dt {
+  color: #222;
+  font-size: 14.5px;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-top: 17px;
+}
+
+.snapshot-list dt:first-child {
+  margin-top: 0;
+}
+
+.snapshot-list dt:nth-of-type(5)::before {
+  content: "🌐 ";
+}
+
+.snapshot-list dt:nth-of-type(6)::before {
+  content: "✨ ";
+}
+
+.snapshot-list dd {
   color: #444;
   font-size: 14.5px;
-  line-height: 1.62;
-  margin-bottom: 18px;
+  line-height: 1.5;
+  margin: 4px 0 0;
 }
 
 .about-main > p:first-child {
