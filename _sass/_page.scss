@@ -13,6 +13,10 @@
   max-width: 980px;
 }
 
+.page-content.ux-page-content {
+  max-width: 980px;
+}
+
 .about-page {
   color: #333;
 }
@@ -263,6 +267,121 @@
   text-underline-offset: 2px;
 }
 
+.ux-page {
+  color: #333;
+}
+
+.ux-page > p {
+  font-size: 15.5px;
+  line-height: 1.65;
+  margin-bottom: 32px;
+}
+
+.ux-page h2 {
+  color: #222;
+  font-size: 21px;
+  font-weight: 500;
+  margin-top: 38px;
+}
+
+.case-study-grid {
+  display: grid;
+  gap: 24px;
+  grid-template-columns: 1fr;
+  margin: 24px 0 42px;
+}
+
+.case-study-card {
+  background: #fffbf4;
+  border: 1px solid #d8cdbc;
+  border-radius: 8px;
+  box-shadow: 0 10px 22px rgba(72, 61, 45, 0.05);
+  display: grid;
+  grid-template-columns: 265px minmax(0, 1fr);
+  overflow: hidden;
+}
+
+.case-study-card img {
+  background: #fff;
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  width: 100%;
+}
+
+.case-study-body {
+  padding: 22px 24px 24px;
+}
+
+.case-study-type {
+  color: #666;
+  font-size: 12.5px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin: 0 0 8px;
+  text-transform: uppercase;
+}
+
+.ux-page .case-study-card h2,
+.ux-page .poster-card h2 {
+  border-bottom: 1px solid #ded6c8;
+  font-size: 18px;
+  line-height: 1.35;
+  margin: 0 0 12px;
+  padding-bottom: 9px;
+}
+
+.case-study-card p,
+.poster-card p {
+  color: #444;
+  font-size: 15px;
+  line-height: 1.58;
+  margin: 0 0 12px;
+}
+
+.case-study-card a,
+.poster-card a,
+.ux-page a {
+  color: #39729e;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.poster-grid {
+  display: grid;
+  gap: 22px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 24px;
+}
+
+.poster-card {
+  background: #fffbf4;
+  border: 1px solid #d8cdbc;
+  border-radius: 8px;
+  box-shadow: 0 10px 22px rgba(72, 61, 45, 0.05);
+  overflow: hidden;
+  padding-bottom: 18px;
+}
+
+.poster-card img {
+  aspect-ratio: 4 / 3;
+  background: #fff;
+  display: block;
+  object-fit: cover;
+  object-position: top center;
+  width: 100%;
+}
+
+.ux-page .poster-card h2 {
+  margin: 18px 18px 12px;
+}
+
+.poster-card a {
+  display: inline-block;
+  margin: 0 18px;
+}
+
 @media (max-width: 800px) {
   .about-grid {
     grid-template-columns: 1fr;
@@ -292,6 +411,19 @@
   .project-card img {
     aspect-ratio: 16 / 10;
     height: auto;
+  }
+
+  .case-study-card {
+    grid-template-columns: 1fr;
+  }
+
+  .case-study-card img {
+    aspect-ratio: 16 / 10;
+    height: auto;
+  }
+
+  .poster-grid {
+    grid-template-columns: 1fr;
   }
 }
 
