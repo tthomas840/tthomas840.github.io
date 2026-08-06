@@ -88,7 +88,7 @@ Science is for everyone. While social media can be useful for scientific dissemi
   </article>
 </div>
 
-<p class="community-closing">If you are organizing local science outreach, working with immigrant communities, developing bilingual education programming, or building responsible AI learning resources, I would be glad to connect.</p>
+<p class="community-closing">If you're developing programs or looking to collaborate on educational outreach in this area, let's chat!</p>
 
 </section>
 </div>
