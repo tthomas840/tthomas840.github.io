@@ -15,25 +15,25 @@ page_class: about-page-content
 ## Quick Snapshot
 
 <dl class="snapshot-list">
-  <dt>Ph.D. in Cognitive Neuroscience</dt>
+  <dt>🎓 Ph.D. in Cognitive Neuroscience</dt>
   <dd>University of the Basque Country, Basque Center on Cognition, Brain, and Language (BCBL)</dd>
 
-  <dt>Postdoctoral Researcher</dt>
+  <dt>🏛️ Postdoctoral Researcher</dt>
   <dd>Harvard University & University of Michigan</dd>
 
-  <dt>Publications in</dt>
+  <dt>📚 Publications in</dt>
   <dd><em>Brain and Language</em>, <em>Learning and Instruction</em>, <em>International Journal of Human-Computer Studies</em>, and other peer-reviewed venues</dd>
 
-  <dt>Invited Talks at</dt>
+  <dt>🎤 Invited Talks at</dt>
   <dd>University of Michigan, Stanford University, UC Irvine, Harvard University</dd>
 
-  <dt>Languages</dt>
+  <dt>🌐 Languages</dt>
   <dd>English & Spanish | Experienced in multilingual research design</dd>
 
-  <dt>Focus Areas</dt>
+  <dt>✨ Focus Areas</dt>
   <dd>Human-AI interaction, language development, inclusive UX, minority language support, ethical AI literacy</dd>
 
-  <dt>Location</dt>
+  <dt>📍 Location</dt>
   <dd>Open to remote/global collaboration</dd>
 </dl>
 

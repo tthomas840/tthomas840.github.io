@@ -37,9 +37,10 @@
 .about-snapshot-photo {
   aspect-ratio: 1 / 1;
   border: 1px solid #d8cdbc;
-  border-radius: 8px;
+  border-radius: 50%;
   display: block;
   margin: 0 auto 24px;
+  max-width: 220px;
   object-fit: cover;
   object-position: center;
   width: 100%;
@@ -68,14 +69,6 @@
 
 .snapshot-list dt:first-child {
   margin-top: 0;
-}
-
-.snapshot-list dt:nth-of-type(5)::before {
-  content: "🌐 ";
-}
-
-.snapshot-list dt:nth-of-type(6)::before {
-  content: "✨ ";
 }
 
 .snapshot-list dd {
