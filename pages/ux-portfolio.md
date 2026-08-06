@@ -7,7 +7,7 @@ page_class: ux-page-content
 
 <div class="ux-page">
 
-<p>Selected case studies from academic and applied UX research projects at the intersection of AI-powered learning, multilingual education, human-computer interaction, and product strategy.</p>
+<p>Selected academic case studies at the intersection of AI-powered learning, multilingual education, human-computer interaction, and inclusive research design.</p>
 
 <h2>What I Bring</h2>
 
@@ -82,29 +82,6 @@ page_class: ux-page-content
     </div>
   </article>
 
-  <article class="case-study-card">
-    <img src="{{ site.github.url }}/assets/img/ux-case-studies/scientific-discovery-tool.png" alt="Case study preview for an AI-enabled scientific discovery tool">
-    <div class="case-study-body">
-      <p class="case-study-type">Business</p>
-      <h2>Understanding researcher needs for an AI-enabled scientific discovery tool</h2>
-      <p><strong>Methods:</strong> In-depth interviews, workflow evaluation</p>
-      <p><strong>Context:</strong> Global, multidisciplinary research</p>
-      <p>Examined how scientists generate and evaluate early-stage research ideas, surfacing usability barriers and opportunities for AI-assisted workflows.</p>
-      <a href="{{ site.github.url }}/assets/files/ux-case-studies.pdf#page=3">View case study</a>
-    </div>
-  </article>
-
-  <article class="case-study-card">
-    <img src="{{ site.github.url }}/assets/img/ux-case-studies/solar-workflows.png" alt="Case study preview for solar workflows across European and LatAm markets">
-    <div class="case-study-body">
-      <p class="case-study-type">Business</p>
-      <h2>Evaluating solar workflows across European and LatAm markets</h2>
-      <p><strong>Methods:</strong> In-depth interviews, workflow evaluation</p>
-      <p><strong>Markets:</strong> Two European and three LatAm markets</p>
-      <p>Identified shared and market-specific workflow needs for a solar-data product, informing product priorities and international expansion.</p>
-      <a href="{{ site.github.url }}/assets/files/ux-case-studies.pdf#page=4">View case study</a>
-    </div>
-  </article>
 </div>
 
 <h2>Academic Posters</h2>
