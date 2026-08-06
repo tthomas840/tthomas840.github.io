@@ -62,14 +62,18 @@ Across my projects, I focus on designing and evaluating tools that are:
 
 I collaborate on the development and evaluation of bilingual dialogic eBooks, STEM learning tools, and automatic speech recognition systems, all with the goal of helping children learn through responsive, human-centered technologies.
 
+</div>
+</div>
+
+<section class="vision-section" markdown="1">
+
 ## A Vision for AI and Language Equity
 
 As AI rapidly advances for dominant languages like English, there is a real risk that heritage and minoritized languages will be sidelined. Children who use tools that do not support their home languages may feel discouraged from maintaining them. My long-term goal is to develop and evaluate AI-driven tools that actively promote minority and heritage language use, revitalization, and pride.
 
 I am also invested in making sure that access to AI does not become a new axis of educational inequality, where some learners gain unfair advantages while others are left behind. As AI becomes increasingly embedded in learning and everyday life, I believe it is essential that people understand not only how to use these tools, but also the risks of misuse, from overreliance and loss of critical thinking to the spread of misinformation. Technology should empower, not marginalize.
 
-</div>
-</div>
+</section>
 
 <section id="community-engagement" class="community-section" markdown="1">
 

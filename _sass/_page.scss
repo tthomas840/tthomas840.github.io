@@ -83,6 +83,7 @@
 }
 
 .about-main h2,
+.vision-section h2,
 .community-section h2 {
   border-bottom: 1px solid #ded6c8;
   color: #222;
@@ -93,6 +94,7 @@
 }
 
 .about-main h3,
+.vision-section h3,
 .community-section h3 {
   color: #222;
   font-size: 17px;
@@ -102,6 +104,8 @@
 
 .about-main p,
 .about-main li,
+.vision-section p,
+.vision-section li,
 .community-section p,
 .community-section li {
   font-size: 15.5px;
@@ -109,16 +113,19 @@
 }
 
 .about-main a,
+.vision-section a,
 .community-section a {
   color: #39729e;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
 
+.vision-section,
 .community-section {
   margin-top: 42px;
 }
 
+.vision-section > p,
 .community-section > p {
   max-width: 760px;
 }
