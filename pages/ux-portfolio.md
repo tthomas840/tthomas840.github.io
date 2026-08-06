@@ -9,6 +9,52 @@ page_class: ux-page-content
 
 Selected case studies from academic and applied UX research projects at the intersection of AI-powered learning, multilingual education, human-computer interaction, and product strategy.
 
+## What I Bring
+
+<div class="bring-grid">
+  <section>
+    <h2>Quantitative Depth</h2>
+    <ul>
+      <li>Experimental design and inferential statistics, including t-tests, regressions, and ANOVA</li>
+      <li>Large-scale survey analysis</li>
+      <li>Tools: R, SPSS, Python, Qualtrics, Gorilla, Pavlovia</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Analytical Precision</h2>
+    <ul>
+      <li>Neurophysiological methods, including EEG, fNIRS, fMRI, and pupillometry</li>
+      <li>Speech and language processing, including NLP, speech-to-text, acoustic, and semantic analysis</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Mixed-Methods Flexibility</h2>
+    <ul>
+      <li>Integration of experimental, survey, and qualitative data</li>
+      <li>UX-aligned co-design studies with families and children</li>
+      <li>Thematic coding, participatory design, and user-centered insights</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Action & Outreach</h2>
+    <ul>
+      <li>Translate findings into reports, recommendations, and educator-facing tools</li>
+      <li>Science communication with diverse audiences, including Pint of Science and Brain Awareness Week</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Cross-Cultural Perspective</h2>
+    <ul>
+      <li>Research with multilingual and multicultural populations</li>
+      <li>Ability to conduct sessions in English and Spanish</li>
+    </ul>
+  </section>
+</div>
+
 ## Case Studies
 
 <div class="case-study-grid">

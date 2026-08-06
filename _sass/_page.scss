@@ -284,6 +284,45 @@
   margin-top: 38px;
 }
 
+.bring-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  margin: 24px 0 42px;
+}
+
+.bring-grid section {
+  background: #f3eee5;
+  border: 1px solid #d8cdbc;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.ux-page .bring-grid h2 {
+  background: #39729e;
+  border-bottom: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 68px;
+  padding: 13px 14px;
+  text-align: center;
+}
+
+.bring-grid ul {
+  margin: 0;
+  padding: 15px 18px 18px 28px;
+}
+
+.bring-grid li {
+  color: #333;
+  font-size: 13.5px;
+  line-height: 1.42;
+  margin-bottom: 8px;
+}
+
 .case-study-grid {
   display: grid;
   gap: 24px;
@@ -425,10 +464,18 @@
   .poster-grid {
     grid-template-columns: 1fr;
   }
+
+  .bring-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 520px) {
   .community-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .bring-grid {
     grid-template-columns: 1fr;
   }
 }
