@@ -7,7 +7,7 @@ page_class: ux-page-content
 
 <div class="ux-page">
 
-<p>Selected academic case studies at the intersection of AI-powered learning, multilingual education, human-computer interaction, and inclusive research design.</p>
+<p>Selected case studies at the intersection of AI-powered learning, multilingual education, human-computer interaction, and inclusive research design. Check back soon for business-focused case studies.</p>
 
 <h2>What I Bring</h2>
 
