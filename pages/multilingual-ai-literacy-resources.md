@@ -4,8 +4,6 @@ title: Multilingual AI Literacy Resources
 permalink: /multilingual-ai-literacy-resources
 ---
 
-# Multilingual AI Literacy Resources for Families
-
 This page is in progress. It will include family-friendly resources for understanding, discussing, and using AI tools in multilingual homes and learning environments.
 
 ## Coming Soon

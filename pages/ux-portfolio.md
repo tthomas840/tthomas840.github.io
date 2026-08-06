@@ -4,8 +4,6 @@ title: UX Portfolio
 permalink: /ux-portfolio
 ---
 
-# UX Portfolio
-
 I am currently building this portfolio section. It will highlight selected projects at the intersection of UX research, AI-powered learning, multilingual education, and child-centered design.
 
 ## Coming Soon
