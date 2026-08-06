@@ -5,11 +5,11 @@ permalink: /ux-portfolio
 page_class: ux-page-content
 ---
 
-<div class="ux-page" markdown="1">
+<div class="ux-page">
 
-Selected case studies from academic and applied UX research projects at the intersection of AI-powered learning, multilingual education, human-computer interaction, and product strategy.
+<p>Selected case studies from academic and applied UX research projects at the intersection of AI-powered learning, multilingual education, human-computer interaction, and product strategy.</p>
 
-## What I Bring
+<h2>What I Bring</h2>
 
 <div class="bring-grid">
   <section>
@@ -55,7 +55,7 @@ Selected case studies from academic and applied UX research projects at the inte
   </section>
 </div>
 
-## Case Studies
+<h2>Case Studies</h2>
 
 <div class="case-study-grid">
   <article class="case-study-card">
@@ -107,7 +107,7 @@ Selected case studies from academic and applied UX research projects at the inte
   </article>
 </div>
 
-## Academic Posters
+<h2>Academic Posters</h2>
 
 <p>Visual examples of academic conference presentations. Full-size versions are available through the links below.</p>
 
