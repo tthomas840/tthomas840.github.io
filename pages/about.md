@@ -88,7 +88,7 @@ Science is for everyone. While social media can be useful for scientific dissemi
   </article>
 </div>
 
-<p class="community-closing">If you're developing programs or looking to collaborate on educational outreach in this area, let's chat!</p>
+<p class="community-closing">If you're developing programs or looking to collaborate on educational outreach in this area, let's chat! Send me a message on <a href="https://www.linkedin.com/in/trisha-t-a76436223/" target="_blank">LinkedIn</a>.</p>
 
 </section>
 </div>
