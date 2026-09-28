@@ -21,6 +21,9 @@ page_class: about-page-content
   <dt>🏛️ Postdoctoral Researcher</dt>
   <dd>Harvard University & University of Michigan</dd>
 
+  <dt>🧠 Visiting Researcher</dt>
+  <dd>Neuroscience of Language Lab, University of Modena and Reggio Emilia</dd>
+
   <dt>📚 Publications in</dt>
   <dd><em>Brain and Language</em>, <em>Learning and Instruction</em>, <em>International Journal of Human-Computer Studies</em>, and other peer-reviewed venues</dd>
 
